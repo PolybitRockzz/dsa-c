@@ -41,14 +41,17 @@ This repository contains the source code for both practice problems and lab assi
 #### [Practice Problems](./practice/)
 
 - [Basics](./practice/basics/)
-- [Arrays]
-- [Linked Lists]
-- [Stacks]
-- [Queues]
+- [Arrays](./practice/arrays/)
+- [Linked Lists](./practice/linkedlists/)
+- [Stacks](./practice/stacks/)
+- [Queues](./practice/queues/)
 
 #### [Lab Assignments](./lab/)
 
-- [Module 1]
+- [Module 1](./lab/module1/)
+- [Module 2](./lab/module2/)
+- [Module 3](./lab/module3/)
+- [Module 4](./lab/module4/)
 
 ## Contributors
 
