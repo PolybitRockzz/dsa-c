@@ -38,7 +38,7 @@ Here are some good suggestions for learning the entirety of the C programming la
 
 This repository contains the source code for both practice problems and lab assignments.
 
-#### [Practice Problems](./practice/)
+#### Practice Problems
 
 - [Basics](./practice/basics/)
 - [Arrays](./practice/arrays/)
@@ -46,7 +46,7 @@ This repository contains the source code for both practice problems and lab assi
 - [Stacks](./practice/stacks/)
 - [Queues](./practice/queues/)
 
-#### [Lab Assignments](./lab/)
+#### Lab Assignments
 
 - [Module 1](./lab/module1/)
 - [Module 2](./lab/module2/)
