@@ -53,10 +53,10 @@ This repository contains the source code for both practice problems and lab assi
 - [Module 2](./lab/module2/)
 - [Module 3](./lab/module3/)
 - [Module 4](./lab/module4/)
-- [Module 4](./lab/module5/)
-- [Module 4](./lab/module6/)
-- [Module 4](./lab/module7/)
-- [Module 4](./lab/module8/)
+- [Module 5](./lab/module5/)
+- [Module 6](./lab/module6/)
+- [Module 7](./lab/module7/)
+- [Module 8](./lab/module8/)
 
 ## Contributors
 
