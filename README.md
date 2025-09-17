@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="icon.png" alt="DSA Logo" style="display: block; margin-left: auto; margin-right: auto;margin-top: 15px; margin-bottom: 20px; width: 200px;">
+</p>
+
 <h1 align="center" style="text-align: center; font-size: 35px; font-weight: 700;">DSA Programs in C</h1>
 
 <p align="center" style="text-align: center; font-size: 16px;">All my DSA programs and projects, written in C, for my 3rd semester in KIIT.</p>
