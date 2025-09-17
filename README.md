@@ -66,7 +66,7 @@ This repository contains the source code for both practice problems and lab assi
 
 - [Swastik Biswas (24052392)](https://github.com/PolybitRockzz)
 
-If you want to suggest changes to this repository, send us a pull request, and we will be happy to check it out.
+If you want to suggest changes to this repository, send me a pull request, and I will be happy to check it out.
 
 ## License
 
